@@ -1,4 +1,4 @@
-# Kickstarter-analysis
+# Kickstarter-Challenge
 Performing analysis on Kickstarter data to uncover trends
 VBA – Written Analysis
 Overview of Project
